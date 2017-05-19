@@ -1,6 +1,6 @@
 {
   "name": "nem-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NEM's NanoWallet Utils",
   "main": "./index.js",
   "author": {
