@@ -1,6 +1,8 @@
 # nem-utils
 NEM's NanoWallet Utils
 
+NanoWallet version 1.3.4
+
 ## Install
 ```sh
 npm install nem-utils
